@@ -15,7 +15,7 @@
 
 ![img](german/tsne3k.png)
 
-<p style="text-align: center;">图2. t-SNE降维至三维结果</p>
+<p style="text-align: center;">图2. t-SNE降维至二维结果</p>
 
 ![img](german/tsne3k.gif)
 
