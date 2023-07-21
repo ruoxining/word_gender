@@ -26,6 +26,7 @@
 ### 数据来源
 
 [1] [GermanWordEmbeddings (devmount.github.io)](https://devmount.github.io/GermanWordEmbeddings/#download)
+
 [2] german/gender/german_gender.txt 来源链接实在找不到了，待补充
 
 ### 方法
